@@ -21,9 +21,9 @@
             <label for="pcount">Count :</label>
             <input type="text" name="pcount" required> <br><br>
             <label for="doa">Date of Arrival :</label>
-            <input type="text" name="doa" placeholder="yyyy-mm-dd" required> <br><br>
+            <input type="datetime-local" name="doa" required> <br><br>
             <label for="dod">Date of Departure :</label>
-            <input type="text" name="dod" placeholder="yyyy-mm-dd" required> <br><br>
+            <input type="datetime-local" name="dod" required> <br><br>
             <label for="place">Place of Delivery :</label>
             <input type="text" name="place" required> <br><br>
             <input type="submit" name="submit" value="Submit">
