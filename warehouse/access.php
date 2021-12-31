@@ -1,5 +1,6 @@
 <html>
     <head>
+        <title>Data Access</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
