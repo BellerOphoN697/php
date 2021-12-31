@@ -1,5 +1,6 @@
 <html>
     <head>
+        <title>Mahindra Logistics</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
