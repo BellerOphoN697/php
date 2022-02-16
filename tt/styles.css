@@ -1,0 +1,118 @@
+footer
+{
+  background-color: lightslategray;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  left: 0%;
+  padding: 10px;
+  text-align: center;
+  color: red;
+}
+header
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 20%;
+  background-color: red;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+home
+{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80%;
+  font-size: 30px;
+  color: red;
+  background-color: lightgray;
+  text-align: center;
+}
+body
+{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 80%;
+  height: 80%;
+  font-size: 20px;
+  color: red;
+  background-color: lightgray;
+  text-align: left;
+}
+links
+{
+  position: fixed;
+  left: 0;
+  top: 20%;
+  width: 20%;
+  height: 100%;
+  background: white;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+label
+{
+  left: 10%;
+  font-size: 20px;
+  color: red;
+  background-color: lightgray;
+  text-align: left;
+}
+input
+{
+  left: 30%;
+  background-color: white;
+  font-size: 20px;
+}
+button
+{
+  background-color: white;
+  font-size: 20px;
+}
+table
+{
+  position: fixed;
+  top: 30%;
+  left: 25%;
+  table-layout: fixed;
+  width: 70%;  
+  border: 1px solid black;
+}
+th
+{
+  text-align: center;
+  color: black;
+  border: 1px solid black;
+  font-size: x-large;
+}
+td
+{
+  text-align: center;
+  border: 1px solid black;
+  font-size: x-large;
+  color: black;
+}
+search
+{
+  position: fixed;
+  bottom: 20%;
+  left: 50%;
+  font-size: larger;
+  text-align: center;
+}
+result
+{
+  position: fixed;
+  bottom: 60%;
+  left: 54%;
+  font-size: xx-large;
+  text-align: center;
+}
